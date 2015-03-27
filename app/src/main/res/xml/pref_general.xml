@@ -14,6 +14,7 @@
         android:key="pref_night_mode"
         android:title="@string/pref_night_mode_title"
         android:defaultValue="false" />
+
     <ListPreference
         android:key="pref_text_size"
         android:title="@string/text_size"
